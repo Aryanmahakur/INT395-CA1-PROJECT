@@ -1,0 +1,26 @@
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Ignore data files and datasets
+*.csv
+*.xlsx
+*.parquet
+*.json
+
+# Ignore model binary weights (optional, recommended if files are > 100MB)
+*.pkl
+*.h5
+*.onnx
+*.pt
+*.pth
+
+# Ignore Python cached files and environment
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/

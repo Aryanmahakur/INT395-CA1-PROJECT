@@ -12,7 +12,7 @@
 *.json
 
 # Ignore model binary weights (optional, recommended if files are > 100MB)
-*.pkl
+
 *.h5
 *.onnx
 *.pt
